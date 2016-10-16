@@ -1,2 +1,4 @@
 # Regression Successive Orthogonalization
-Hello Minwoo
+
+Statistical (Machine) Learning
+The Algorithm 3.1 - Regression by Successive Orthogonalization by Python.
